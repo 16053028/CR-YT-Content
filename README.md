@@ -9,6 +9,7 @@ Isi file : Tentang Isu Hak Cipta dalam konten
 
 Nama file : CC-YT-V1.md
 Isi file : Tentang Hak Cipta Konten
+
 ===============================================
 
 Bahasa inggris :
