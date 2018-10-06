@@ -1,6 +1,7 @@
 # CR-YT-Content
 
-Bahasa Indonesia
+Bahasa Indonesia:
+
 Nama file : AC-YT-V1.md
 Isi file : Tentang Konten yang dibuat
 
@@ -13,6 +14,7 @@ Isi file : Tentang Hak Cipta Konten
 ===============================================
 
 Bahasa inggris :
+
 File name: AC-YT-V1.md
 File contents: About Content created
 
